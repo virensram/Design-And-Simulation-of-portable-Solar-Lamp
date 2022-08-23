@@ -1,1 +1,1 @@
-# Design-And-Simulation-of-portable-Solar-Lamp
+# Design-of-portable-Solar-Lamp
